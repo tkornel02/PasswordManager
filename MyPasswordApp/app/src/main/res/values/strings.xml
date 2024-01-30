@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">PasswordApp</string>
+    <string name="jelsz_k_gener_l_sa">Jelszók generálása</string>
+    <string name="passwordapp">PasswordApp</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="special_characters">special characters</string>
+    <string name="numbers">numbers</string>
+    <string name="uppercase_letters">uppercase letters</string>
+    <string name="lowercase_letters">lowercase letters</string>
+    <string name="password_length">Length</string>
+    <string name="password_options">Password Options:</string>
+    <string name="new_password">New Password</string>
+    <string name="password">Password</string>
+    <string name="password_length_hint">Password length</string>
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">Ok</string>
+    <string name="description">Description</string>
+    <string name="save_password">Save Password</string>
+    <string name="my_passwords">My Passwords</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="todo">TODO</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_or_gen_password">Enter or generate password</string>
+    <string name="_twelwe">12</string>
+    <string name="edit_password">Edit password</string>
+    <string name="password_generator">Password Generator</string>
+    <string name="password_length_8">Password Length: 8</string>
+    <string name="generator">Generator</string>
+    <string name="include_uppercase_letters">Include Uppercase Letters</string>
+    <string name="include_lowercase_letters">Include Lowercase Letters</string>
+    <string name="include_numbers">Include Numbers</string>
+    <string name="include_special_characters">Include Special Characters</string>
+</resources>
